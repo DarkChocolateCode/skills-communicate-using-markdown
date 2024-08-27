@@ -13,3 +13,7 @@ just practicing github.
 ``` python
 greeting = "Hello kitten!!"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
